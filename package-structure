@@ -1,0 +1,16 @@
+myonlinestore-laravel/
+├── config/
+│   └── myonlinestore.php
+├── src/
+│   ├── MyOnlineStoreServiceProvider.php
+│   ├── MyOnlineStore.php
+│   ├── Facades/
+│   │   └── MyOnlineStore.php
+│   ├── Exceptions/
+│   │   ├── AuthenticationException.php
+│   │   └── ConfigurationException.php
+│   └── Resources/
+│       ├── ArticleResource.php
+│       └── OrderResource.php
+├── composer.json
+└── README.md 

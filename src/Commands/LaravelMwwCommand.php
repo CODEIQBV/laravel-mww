@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace CodeIQ B.V.\LaravelMww\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelMwwCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-mww';
 
     public $description = 'My command';
 
